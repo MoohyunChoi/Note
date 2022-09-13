@@ -1,0 +1,4 @@
+문자열과 관련 함수
+* strlen(x)  : x의 길이를 반환
+* strcmp(A,B): A, B가 같은 문자열인지 비교
+* strcpy(A,B): B를 A에 복사
